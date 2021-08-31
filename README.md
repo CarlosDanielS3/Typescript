@@ -10,6 +10,7 @@
     </a>
 <a href="https://github.com/CarlosDanielS3/Typescript/issues"><img alt="Top Language" src="https://img.shields.io/github/issues-raw/CarlosDanielS3/Typescript?color=2D325E&labelColor=F0DB4F&style=for-the-badge&logo=github&logoColor=2D325E"></a>
   </p>
+</div>
 # Typescript
 Making this repo i can learn about:
 
