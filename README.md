@@ -26,3 +26,13 @@ Branch V2
 * Activating strictNullChecks
 * Benefits of strictNullChecks in controlling your application's flow
 
+Branch V3
+
+* Method Decorator
+* Log runtime with decorator
+* Creating an Inspection Decorator
+* Portability of old functionality for decorators
+* Using Object.defineProperty
+* Dynamic getter creation
+* Practical application of polymorphism
+* Generation of sourmaps and application debugging in the browser
