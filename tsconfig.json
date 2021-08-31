@@ -3,15 +3,11 @@
         "outDir": "app/dist/js",
         "target": "ES6",
         "noEmitOnError": true,
-<<<<<<< Updated upstream
-        "noImplicitAny": true
-=======
         "noImplicitAny": true,
         "removeComments": true,
         "strictNullChecks": true,
         "experimentalDecorators": true,
         "sourceMap": true
->>>>>>> Stashed changes
     },
     "include": ["app/src/**/*"]
 }
