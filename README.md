@@ -71,6 +71,9 @@ cd TypeScript
 # To install the dependencies
 yarn
 ```
+and 
+
+```PowerShell
 # To move to project directory
 cd servidor-api
 
