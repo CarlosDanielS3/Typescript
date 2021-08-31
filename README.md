@@ -1,4 +1,8 @@
-  <p>
+<div align="center">
+  <br />
+  <img src=".github/banner.svg" width="546" alt="Typescrit" />
+  <br />
+<p>
     <img src="https://img.shields.io/badge/made%20by-Carlos%20DanielS3-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=visual-studio-code&logoColor=2D325E" alt="Made by Carlos Daniel">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/CarlosDanielS3/Typescript?color=2D325E&labelColor=F0DB4F&style=for-the-badge&logo=typescript&logoColor=2D325E">
     <a href="https://github.com/CarlosDanielS3/Typescript/commits/main">
