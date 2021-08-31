@@ -11,10 +11,19 @@
 <a href="https://github.com/CarlosDanielS3/Typescript/issues"><img alt="Top Language" src="https://img.shields.io/github/issues-raw/CarlosDanielS3/Typescript?color=2D325E&labelColor=F0DB4F&style=for-the-badge&logo=github&logoColor=2D325E"></a>
   </p>
 </div>
-# Typescript
-Making this repo i can learn about:
 
-Brach V1
+## 🗂 Table of Contents
+- [🗂 Table of Contents](#-table-of-contents)
+- [📑 About](#-about)
+- [🕵️‍♂️ view the project](#️️-view-the-project)
+- [💻 Technologies](#-technologies)
+- [✨ Installation](#-installation)
+- [🔥 Running](#-running)
+  
+## 📑 About
+
+This is a Typescript project created in order to learn the main features and advantages of typescript. Creating this applicantion i could learn about:
+Brach V1;
 * Modeling holes due to limitations of the Javascript language
 * Initial Benefits of the TypeScript Language
 * Compiler configuration and tsconfig.json role
@@ -27,7 +36,7 @@ Brach V1
 * Conversion of interface values
 * defensive programming
 
-Branch V2
+Branch V2;
 * typescript inheritance
 * generic type classes
 * abstractic classes
@@ -39,8 +48,7 @@ Branch V2
 * Activating strictNullChecks
 * Benefits of strictNullChecks in controlling your application's flow
 
-Branch V3
-
+Branch V3;
 * Method Decorator
 * Log runtime with decorator
 * Creating an Inspection Decorator
@@ -49,3 +57,55 @@ Branch V3
 * Dynamic getter creation
 * Practical application of polymorphism
 * Generation of sourmaps and application debugging in the browser
+
+## 🕵️‍♂️ view the project
+
+
+## 💻 Technologies
+
+<a href="https://yarnpkg.com/"><img src="https://img.shields.io/badge/-Yarn-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=yarn&logoColor=2D325E" alt="Yarn"></a>
+
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=react&logoColor=2D325E" alt="React"></a>
+
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=next.js&logoColor=2D325E" alt="Next.js"></a>
+
+<a href="https://styled-components.com/"><img src="https://img.shields.io/badge/-Styled%20Components-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=styled-components&logoColor=2D325E" alt="Styled Components"></a>
+
+
+## ✨ Installation
+Open a terminal and run the following commands:
+
+```PowerShell
+# To copy this repository
+git clone https://github.com/CarlosDanielS3/TypeScript.git
+
+# To move to project directory
+cd TypeScript
+
+# To install the dependencies
+yarn
+```
+# To move to project directory
+cd servidor-api
+
+# To install the dependencies
+yarn
+```
+
+
+## 🔥 Running
+You can run the application in development mode with the command:
+
+```Powershell
+#Run the Server
+yarn start
+```
+
+and 
+
+```Powershell
+# To run Aplication the consumed API
+cd servidor-api
+yarn start
+```
+
