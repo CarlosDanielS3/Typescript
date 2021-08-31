@@ -15,7 +15,6 @@
 ## 🗂 Table of Contents
 - [🗂 Table of Contents](#-table-of-contents)
 - [📑 About](#-about)
-- [🕵️‍♂️ view the project](#️️-view-the-project)
 - [💻 Technologies](#-technologies)
 - [✨ Installation](#-installation)
 - [🔥 Running](#-running)
@@ -57,19 +56,6 @@ Branch V3;
 * Dynamic getter creation
 * Practical application of polymorphism
 * Generation of sourmaps and application debugging in the browser
-
-## 🕵️‍♂️ view the project
-
-
-## 💻 Technologies
-
-<a href="https://yarnpkg.com/"><img src="https://img.shields.io/badge/-Yarn-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=yarn&logoColor=2D325E" alt="Yarn"></a>
-
-<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=react&logoColor=2D325E" alt="React"></a>
-
-<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=next.js&logoColor=2D325E" alt="Next.js"></a>
-
-<a href="https://styled-components.com/"><img src="https://img.shields.io/badge/-Styled%20Components-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=styled-components&logoColor=2D325E" alt="Styled Components"></a>
 
 
 ## ✨ Installation
