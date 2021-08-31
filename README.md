@@ -22,7 +22,7 @@
   
 ## 📑 About
 
-This is a Typescript project created in order to learn the main features and advantages of typescript. Creating this applicantion i could learn about:
+## This is a Typescript project created in order to learn the main features and advantages of typescript. Creating this applicantion i could learn about:
 Brach V1;
 * Modeling holes due to limitations of the Javascript language
 * Initial Benefits of the TypeScript Language
