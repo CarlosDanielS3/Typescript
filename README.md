@@ -22,7 +22,7 @@
 ## 📑 About
 
 ## This is a Typescript project created in order to learn the main features and advantages of typescript. Creating this applicantion i could learn about:
-Brach V1;
+##Branch V1
 * Modeling holes due to limitations of the Javascript language
 * Initial Benefits of the TypeScript Language
 * Compiler configuration and tsconfig.json role
@@ -35,7 +35,7 @@ Brach V1;
 * Conversion of interface values
 * defensive programming
 
-Branch V2;
+##Branch V2
 * typescript inheritance
 * generic type classes
 * abstractic classes
@@ -47,7 +47,7 @@ Branch V2;
 * Activating strictNullChecks
 * Benefits of strictNullChecks in controlling your application's flow
 
-Branch V3;
+##Branch V3
 * Method Decorator
 * Log runtime with decorator
 * Creating an Inspection Decorator
