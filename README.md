@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src=".github/Typescript_logo_2020.svg" width="400" alt="TypeScript" />
+  <img src=".github/Typescript_logo_2020.svg" width="500" alt="TypeScript" />
   <br />
 <p>
     <img src="https://img.shields.io/badge/made%20by-Carlos%20DanielS3-2D325E?labelColor=F0DB4F&style=for-the-badge&logo=visual-studio-code&logoColor=2D325E" alt="Made by Carlos Daniel">
