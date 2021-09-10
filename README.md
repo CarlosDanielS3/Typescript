@@ -58,6 +58,7 @@
 
 ## Branch V4 (coming soon)
 * tests coverage with jest and circle CI deploy
+* documentation with swagger
 
 ## ✨ Installation
 Open a terminal and run the following commands:
