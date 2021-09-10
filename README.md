@@ -56,6 +56,8 @@
 * Practical application of polymorphism
 * Generation of sourmaps and application debugging in the browser
 
+## Branch V4 (coming soon)
+* tests coverage with jest and circle CI deploy
 
 ## ✨ Installation
 Open a terminal and run the following commands:
