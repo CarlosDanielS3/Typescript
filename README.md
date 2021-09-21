@@ -61,7 +61,8 @@
 * documentation with swagger
 
 ## You can see details about typescript here
-https://www.notion.so/Typescript-5712aeab312d44fcba0aa88895caad36
+<a href = "https://www.notion.so/Typescript-5712aeab312d44fcba0aa88895caad36"><img src=".github/Typescript_logo_2020.svg" width="500" alt="TypeScript" /></a>
+
 ## ✨ Installation
 Open a terminal and run the following commands:
 
