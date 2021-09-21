@@ -60,6 +60,8 @@
 * tests coverage with jest and circle CI deploy
 * documentation with swagger
 
+## You can see details about typescript here
+https://www.notion.so/Typescript-5712aeab312d44fcba0aa88895caad36
 ## ✨ Installation
 Open a terminal and run the following commands:
 
